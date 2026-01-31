@@ -54,3 +54,8 @@ ProviderFree Tier NotesOpenRouterFree models: ~20 RPM & daily quota; 1000/day if
 Composable LLM pipelines Provider‑agnostic agents and chains Mirrors Python LangChain patterns in idiomatic C#, making it enterprise‑friendly [pub.dev]
 
 📜 License MIT License. External APIs (OpenRouter/Mistral/OpenAI) have their own terms & pricing.
+
+# LangChainOpenRouter_wholestack Output
+
+![# LangChainOpenRouter_wholestack](https://github.com/user-attachments/assets/98a5d0d8-57ae-4719-9c85-40e817a39ec9)
+
